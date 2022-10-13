@@ -1,0 +1,25 @@
+{
+  "name": "sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sql.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fanessah/SQL-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fanessah/SQL-/issues"
+  },
+  "homepage": "https://github.com/Fanessah/SQL-#readme",
+  "dependencies": {
+    "pg": "^8.8.0",
+    "readline-sync": "^1.4.10"
+  }
+}
